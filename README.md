@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Collaborate
 - 🌱 I’m currently learning ... Java/JavaScript/HTML/CSS/Dart/PHP/.NET
 - 💞️ I’m looking to collaborate on ...Webdeveloper/IOS-Android APP-Developer/
-- 📫 How to reach me ...Send me an Email :)
+- 📫 How to reach me ...Send me a Message :)
 
 <!---
 TempErbil/TempErbil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
